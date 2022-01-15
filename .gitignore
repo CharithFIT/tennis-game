@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/TennisGame.Lib/obj
+/TennisGame.Lib/bin/Debug/net6.0
+/TennisGame.Tests/obj
+/TennisGame.Tests/bin/Debug/net6.0
+/.vs/TennisGame/v17
+/.vs
+/obj
