@@ -10,7 +10,6 @@ If both have 40 the players are “deuce”.
 If the game is in deuce, the winner of a point will have advantage
 If the player with advantage wins the ball he wins the game
 If the player without advantage wins they are back at deuce.
-Alternate description of the rules per Wikipedia (http://en.wikipedia.org/wiki/Tennis#Scoring ):
 
 A game is won by the first player to have won at least four points in total and at least two points more than the opponent.
 The running score of each game is described in a manner peculiar to tennis: scores from zero to three points are described as “love”, “15”, “30”, and “40” respectively.
